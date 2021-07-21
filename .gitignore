@@ -55,3 +55,9 @@ geckodriver.log
 # copied changelog
 docs/source/changelog.md
 data/
+
+rle.csv
+
+rle_kfold.csv
+
+*.bin
